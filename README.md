@@ -1,2 +1,1 @@
-# proof-of-concept
-Centralized, Independent, and Personal Security Research
+`Centralized, Independent, and Personal Security Research`
